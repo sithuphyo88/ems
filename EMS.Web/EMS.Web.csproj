@@ -131,6 +131,7 @@
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
+    <Content Include="wwwroot\css\project.css" />
     <Content Include="wwwroot\libs\bootstrap-3.3.7\css\bootstrap-theme.css" />
     <Content Include="wwwroot\libs\bootstrap-3.3.7\css\bootstrap-theme.min.css" />
     <Content Include="wwwroot\libs\bootstrap-3.3.7\css\bootstrap.css" />
@@ -165,7 +166,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="ViewModels\" />
-    <Folder Include="wwwroot\css\" />
     <Folder Include="wwwroot\images\" />
     <Folder Include="wwwroot\js\" />
   </ItemGroup>
